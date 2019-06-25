@@ -1,2 +1,1 @@
-# pyclass
-p y c l a s s
+These are examples ae from the python class
